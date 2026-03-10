@@ -1,2 +1,1 @@
-# ECE-2300---Digital-Logic-Design
-Design, implementation and testing of combinational and sequential circuits
+These are my lab reports from digital logic design. I worked with one lab partner
